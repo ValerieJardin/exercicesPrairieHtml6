@@ -1,0 +1,63 @@
+.blocVert
+{
+float: left;
+width: 80%;
+height: 50px;
+background-color:#2ECC71;
+}
+.blocBleu
+{
+float: left;
+width: 20%;
+height: 50px;
+background-color:#2980B9;
+}
+.blocRouge
+{
+float: left;
+width: 20%;
+height: 120px;
+background-color:#E74C3C;
+}
+.blocOrange
+{
+float: left;
+width: 40%;
+height: 60px;
+background-color:#E67E22;
+}
+.blocGris
+{
+float: left;
+width: 40%;
+height: 60px;
+background-color:#95A5A6;
+}
+.blocJaune
+{
+float: left;
+width: 26.7%;
+height: 60px;
+background-color:#F39C12;
+}
+.blocBleuGris
+{
+float: left;
+width: 26.7%;
+height: 60px;
+background-color:#16A085;
+}
+.blocOrangeFoncé
+{
+float: left;
+width: 26.6%;
+height: 60px;
+background-color:#D35400;
+}
+.blocNoir
+{
+float: left;
+width: 100%;
+height: 200px;
+background-color:#2C3E50;
+}
